@@ -2,6 +2,10 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-color: lightskyblue;
+    border-radius: 15%;
+    border-width: thick;
+    border-style: double;
   }
 
   .center {
@@ -10,11 +14,10 @@ img {
 
 body {
     background-color: #faebd7;
+    
 }
 
 ul, ol {
-    background-color: lightgrey;
-    border-radius: 15%;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: oblique;
-}
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-weight: 300; font-size: 18px;
+     }
